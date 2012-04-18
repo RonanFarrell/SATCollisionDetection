@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATCollisionDetection", "SATCollisionDetection\SATCollisionDetection\SATCollisionDetection.csproj", "{FA187C20-1147-4916-9BF8-899E79CD55E4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SATCollisionDetectionContent", "SATCollisionDetection\SATCollisionDetectionContent\SATCollisionDetectionContent.contentproj", "{E1298187-805D-44F8-A195-C198CE5CD1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA187C20-1147-4916-9BF8-899E79CD55E4}.Debug|x86.ActiveCfg = Debug|x86
+		{FA187C20-1147-4916-9BF8-899E79CD55E4}.Debug|x86.Build.0 = Debug|x86
+		{FA187C20-1147-4916-9BF8-899E79CD55E4}.Release|x86.ActiveCfg = Release|x86
+		{FA187C20-1147-4916-9BF8-899E79CD55E4}.Release|x86.Build.0 = Release|x86
+		{E1298187-805D-44F8-A195-C198CE5CD1BA}.Debug|x86.ActiveCfg = Debug|x86
+		{E1298187-805D-44F8-A195-C198CE5CD1BA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
